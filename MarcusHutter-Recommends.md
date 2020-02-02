@@ -186,24 +186,3 @@
        Bayesian Statistics 8 (ISBA-2007) 607-612</i><br>
        [<a href="https://bayesian.org/project/lindley-prize/">Lindley prize for innovative research in Bayesian statistics</a>]<br><br></li>
 </ul>
-
-<!-- ============================== -->
-<h3><a name="more">More Publications (+ abstracts, BibTeX, citations, ...)</a></h3>
-<!-- ============================== -->
-
-For more complete lists of publications, please consult the
-<ul>
-<li><a href="http://hutter1.net/official/vitae.pdf#sec.publ">Long hyper-linked list of publications in my CV</a> (compact)
-</li><li><a href="http://hutter1.net/official/bib.htm">BibTeX with abstracts and links to papers, slides, code, latex, publisher, etc.</a> (recommended)
-</li><li><a class="extern" target="_extern" href="http://arxiv.org/find/grp_cs,grp_physics,grp_math/1/au:+Hutter_Marcus/0/1/0/all/0/1?per_page=100">Archived Publications in arXiv.org + latex &amp; abstracts</a> (till 2012)
-</li><li><a class="extern" target="_extern" href="http://www.dblp.org/search/index.php#query=%22Marcus%20Hutter%22&amp;qp=H1.999">Listed at DBLP Bibliography Server + coauthor information</a>
-</li><li><a class="extern" target="_extern" href="http://scholar.google.com/scholar?q=Marcus+Hutter">Listed at Google Scholar + citation information</a>
-</li><li><a class="extern" target="_extern" href="http://academic.research.microsoft.com/Author/693010/marcus-hutter">Listed at Miscrosoft Academic Search + citation statistics</a>
-<!-- <li><a class="extern" target="_extern" href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Hutter:Marcus.html">Listed at DBLP Bibliography Server</a> -->
-</li><li><a href="http://hutter1.net/official/projects.htm">Projects and Publications sorted w.r.t. topic</a></li>
-<li><a href="http://hutter1.net/physics/physics.htm">Old publications in particle physics (QCD, Instantons)</a>
-</li><li><a href="http://hutter1.net/official/cgraphics.htm">Outdated publications in computer graphics and others</a></li>
-</ul>
-
-
-</body></html>
