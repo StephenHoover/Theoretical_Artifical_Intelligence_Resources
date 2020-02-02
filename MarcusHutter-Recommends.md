@@ -39,7 +39,7 @@
 </ul>
 
 <!-- ============================== -->
-<h3><a name="favorite">My Favorite Publications (not necessarily yours)</a></h3>
+<h3><a name="favorite">[Hutter's] Favorite Publications (not necessarily yours)</a></h3>
 <!-- ============================== -->
 
 <ul>
